@@ -1,0 +1,44 @@
+1523961191879	geckodriver	INFO	geckodriver 0.20.0
+1523961191910	geckodriver	INFO	Listening on 127.0.0.1:61611
+1523961194854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MX\\AppData\\Local\\Temp\\rust_mozprofile.NSmgimWsoM0X"
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+1523961195854	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+1523961198450	Marionette	INFO	Listening on port 61623
+1523961198518	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://tvimg.xiaoyuanzhao.com/static/public/js/jquery-1.9.1.min.js?v=397754ba49e9e0cf4e7c190da78dda05, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5872, Chrome_[GPU 2884, Chrome_ChildThread] WARNING: pipe error: 109: file
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+1523961574370	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+1523961577236	Marionette	INFO	Listening on port 61874
+1523961577278	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://tvimg.xiaoyuanzhao.com/static/public/js/jquery-1.9.1.min.js?v=397754ba49e9e0cf4e7c190da78dda05, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9636, Chrome_ChildThre[GPU 7560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1612566	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+1523961614490	Marionette	INFO	Listening on port 61994
+1523961614716	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\MX\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://tvimg.xiaoyuanzhao.com/static/public/js/jquery-1.9.1.min.js?v=397754ba49e9e0cf4e7c190da78dda05, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 14836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13232, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
